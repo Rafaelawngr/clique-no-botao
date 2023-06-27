@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #131313;
+}
+
+.btn {
+    background-color: #493f80;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: none;
+    position: absolute;
+    top: calc(50% - 50px);
+    left: calc(50% - 50px);
+    transition: 200ms;
+    box-shadow: 0px 0px 20px 1px #bbbbbb5e;
+}
